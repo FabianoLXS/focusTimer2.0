@@ -2,7 +2,8 @@
 
 "FocusTimer" challenge | Create a Pomodoro style timer.
 
-!["FocusTimer" Challange](https://github.com/fabianolxs/focus-timer-2.0/blob/main/assets/focus-timer-2.0.png)
+![image](https://github.com/FabianoLXS/focusTimer2.0/assets/47800473/c2bada52-6b65-4472-be45-3c06bb2c4060)
+
 
 The buttons on the left side, below the timer, have the following functions:
 
